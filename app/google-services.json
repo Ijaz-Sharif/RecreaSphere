@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91634258076",
+    "project_id": "recreasphere",
+    "storage_bucket": "recreasphere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91634258076:android:375846b1c1b37d72a01d59",
+        "android_client_info": {
+          "package_name": "com.example.recreasphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkHg67iLz5bJo2uId_-MNJuT_r8ohDhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
